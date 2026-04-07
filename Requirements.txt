@@ -4,4 +4,3 @@ Scikit-learn
 seaborn 
 streamlit
 altair 
-joblib
