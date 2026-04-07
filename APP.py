@@ -1,14 +1,3 @@
-
-
-
-# # location = st.selectbox("LOCATION :", options=df['location'].unique())
-
-
-#     col1,col2 = st.columns(2)
-#     with col1:
-#         location = st.selectbox("LOCATION :",options=df['location'].unique())
-#         sqft = st.number_input
-
 import streamlit as st
 import pandas as pd
 import joblib
