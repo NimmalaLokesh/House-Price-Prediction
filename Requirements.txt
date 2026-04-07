@@ -1,6 +1,0 @@
-numpy 
-pandas
-Scikit-learn
-seaborn 
-streamlit
-altair 
