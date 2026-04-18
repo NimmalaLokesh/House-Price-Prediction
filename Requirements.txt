@@ -1,0 +1,17 @@
+numpy == 1.26.4
+pandas == 2.3.3
+scikit-learn
+seaborn
+streamlit == 1.31.1
+altair == 4.2.2
+joblib
+
+
+# create a folder
+# create virtual environment
+# python -m venv myenv
+# myenv\Scripts\activate
+# create a file --> requirements.txt
+# Run --> pip install -r requirements.txt
+# python.exe -m pip install --upgrade pip
+# streamlit run app.py
